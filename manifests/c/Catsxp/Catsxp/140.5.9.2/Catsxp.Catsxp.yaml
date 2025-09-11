@@ -1,8 +1,8 @@
-# Automatically updated by the winget bot at 2025/Sep/10
+# Created with YamlCreate.ps1 Dumplings Mod
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.10.0.schema.json
 
-PackageIdentifier: CREALOGIX.PayEye
-PackageVersion: 1.4.0
+PackageIdentifier: Catsxp.Catsxp
+PackageVersion: 140.5.9.2
 DefaultLocale: en-US
 ManifestType: version
 ManifestVersion: 1.10.0
